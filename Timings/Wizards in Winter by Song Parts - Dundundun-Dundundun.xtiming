@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Dundundun-Dundundun" SourceVersion="">
+  <EffectLayer>
+    <Effect label="" starttime="50400" endtime="69820" />
+    <Effect label="" starttime="98920" endtime="124880" />
+    <Effect label="" starttime="149020" endtime="171780" />
+  </EffectLayer>
+</timing>

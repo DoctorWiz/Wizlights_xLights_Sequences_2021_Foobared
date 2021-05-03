@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Scale Up &amp; Down" SourceVersion="">
+  <EffectLayer>
+    <Effect label="" starttime="11950" endtime="12050" />
+    <Effect label="" starttime="12160" endtime="12260" />
+    <Effect label="" starttime="12370" endtime="12470" />
+    <Effect label="" starttime="12570" endtime="12670" />
+    <Effect label="" starttime="12770" endtime="12870" />
+    <Effect label="" starttime="12970" endtime="13070" />
+  </EffectLayer>
+</timing>

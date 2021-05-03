@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="lu-lu-lu-lu" SourceVersion="">
+  <EffectLayer>
+    <Effect label="" starttime="105380" endtime="115090" />
+    <Effect label="" starttime="115090" endtime="124880" />
+  </EffectLayer>
+</timing>

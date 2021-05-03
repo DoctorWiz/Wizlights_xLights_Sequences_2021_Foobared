@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Base Plus Deeedleleedle" SourceVersion="">
+  <EffectLayer>
+    <Effect label="" starttime="30980" endtime="35930" />
+    <Effect label="" starttime="37430" endtime="42300" />
+    <Effect label="" starttime="76260" endtime="81210" />
+    <Effect label="" starttime="82720" endtime="87680" />
+    <Effect label="" starttime="131250" endtime="136090" />
+    <Effect label="" starttime="137700" endtime="142560" />
+    <Effect label="" starttime="149020" endtime="171780" />
+  </EffectLayer>
+</timing>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Base Plus" SourceVersion="">
+  <EffectLayer>
+    <Effect label="" starttime="13180" endtime="18340" />
+    <Effect label="" starttime="19650" endtime="24490" />
+  </EffectLayer>
+</timing>

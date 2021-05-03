@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Scale Down" SourceVersion="">
+  <EffectLayer>
+    <Effect label="" starttime="47560" endtime="47750" />
+    <Effect label="" starttime="47940" endtime="48140" />
+    <Effect label="" starttime="48340" endtime="48540" />
+    <Effect label="" starttime="48750" endtime="48950" />
+    <Effect label="" starttime="49160" endtime="49360" />
+    <Effect label="" starttime="49560" endtime="49760" />
+    <Effect label="" starttime="49960" endtime="50180" />
+    <Effect label="" starttime="92810" endtime="92910" />
+    <Effect label="" starttime="93220" endtime="93320" />
+    <Effect label="" starttime="93620" endtime="93720" />
+    <Effect label="" starttime="94030" endtime="94130" />
+    <Effect label="" starttime="94430" endtime="94530" />
+    <Effect label="" starttime="94830" endtime="94930" />
+    <Effect label="" starttime="95240" endtime="95340" />
+    <Effect label="" starttime="95640" endtime="95740" />
+    <Effect label="" starttime="95850" endtime="95960" />
+    <Effect label="" starttime="96070" endtime="96170" />
+    <Effect label="" starttime="96280" endtime="96380" />
+    <Effect label="" starttime="96490" endtime="96580" />
+    <Effect label="" starttime="96680" endtime="96780" />
+    <Effect label="" starttime="96880" endtime="96980" />
+    <Effect label="" starttime="97080" endtime="97180" />
+    <Effect label="" starttime="97280" endtime="97380" />
+    <Effect label="" starttime="97490" endtime="97600" />
+    <Effect label="" starttime="97710" endtime="97800" />
+    <Effect label="" starttime="97900" endtime="97990" />
+    <Effect label="" starttime="98090" endtime="98190" />
+    <Effect label="" starttime="98290" endtime="98390" />
+    <Effect label="" starttime="98490" endtime="98590" />
+    <Effect label="" starttime="98700" endtime="98810" />
+    <Effect label="" starttime="98920" endtime="99020" />
+  </EffectLayer>
+</timing>
