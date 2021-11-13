@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<timing name="Base Rythym" SourceVersion="">
-  <EffectLayer>
-    <Effect label="" starttime="210" endtime="5290" />
-    <Effect label="" starttime="6710" endtime="11840" />
-  </EffectLayer>
-</timing>
